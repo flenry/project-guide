@@ -5,7 +5,6 @@ Claude Code skill that shows all available skills and tools in the current proje
 ## Install
 
 ```bash
-git clone git@github.com:flenry/project-init.git .claude/skills/project-init
 git clone git@github.com:flenry/project-guide.git .claude/skills/guide
 ```
 
