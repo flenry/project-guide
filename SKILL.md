@@ -78,6 +78,9 @@ If the user describes a task (e.g. "I want to run experiments" or "I need to aut
 | Browser automation | `~/tools/agent-browser-axi` |
 | Parallel agent work | `~/tools/firstmate` |
 | Library API questions | `~/tools/context7` |
+| Exploring unfamiliar codebase | `~/tools/codebase-memory-mcp` |
+| Researching web / external sources | `~/tools/agent-reach` |
+| UI design consistency across agents | `~/tools/design.md` |
 | Test-first development | `tdd` |
 | Restructuring existing code | `refactor` |
 
